@@ -96,7 +96,7 @@ Clear, readable labels and placeholders
 
 **Usage**
 
-1. Clone the repository: git clone
+1. Clone the repository: git clone https://github.com/Eyong-Godwill-Ngang/Tanstack-signup-page.git
 2. Install dependencies: npm install
 3. Run the development server:  npm run dev
 
