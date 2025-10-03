@@ -71,3 +71,32 @@ export default defineConfig([
   },
 ])
 ```
+
+
+**Signup Form UI**
+
+A responsive, clean, and modern signup form built with React and Tailwind CSS. This project demonstrates form layout, input styling, and user-friendly interface design for collecting user information.
+
+**Features**
+
+Input fields for first name, last name, email, password, confirm password
+
+Dropdown for gender selection
+
+Date picker for date of birth
+
+Responsive design for desktop and mobile
+
+Smooth styling with Tailwind CSS
+
+Clear, readable labels and placeholders
+
+**Screenshots**
+<img width="362" height="482" alt="image" src="https://github.com/user-attachments/assets/85d4b769-f167-40b0-8f35-2615e6727b8f" />
+
+**Usage**
+
+1. Clone the repository: git clone
+2. Install dependencies: npm install
+3. Run the development server:  npm run dev
+
